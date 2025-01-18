@@ -14,14 +14,14 @@ Software Engineer → Senior Engineer → Staff Engineer → Principal Engineer
 - DevOps: Docker, AWS, Nginx
 
 **Currently Reading:**
-- 📖 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- 📖 [The Software Engineers Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+-[The Software Engineers Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 
 **What I Can Help With:**
 - Building responsive and intuitive web applications     
 - Developing scalable and efficient backend systems 
 - Optimizing infrastructure and deployments for better performance
 
-📬 **Links:**
+**Links:**
 - [Linkedin](https://www.linkedin.com/in/ebrahim-gory/)
 - [Portfolio]
