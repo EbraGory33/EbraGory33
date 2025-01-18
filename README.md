@@ -15,7 +15,7 @@ Software Engineer → Senior Engineer → Staff Engineer → Principal Engineer
 
 **Currently Reading:**
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
--[The Software Engineers Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
+- [The Software Engineers Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 
 **What I Can Help With:**
 - Building responsive and intuitive web applications     
