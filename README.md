@@ -4,14 +4,11 @@ My journey into software development started with a curiosity about how technolo
 **Current Focus:**   
 I'm actively seeking opportunities to grow as a software engineer, with a focus on Frontend Development and Full-Stack Engineering.
 
-**Career Goal:**     
-Software Engineer → Senior Engineer → Staff Engineer → Principal Engineer
-
 **Tech Stack:**
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: Django, Node.js
 - Databases: PostgreSQL, MongoDB
-- DevOps: Docker, AWS, Nginx
+- DevOps: Docker, AWS
 
 **Currently Reading:**
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
@@ -24,4 +21,4 @@ Software Engineer → Senior Engineer → Staff Engineer → Principal Engineer
 
 **Links:**
 - [Linkedin](https://www.linkedin.com/in/ebrahim-gory/)
-- [Portfolio]
+- [Portfolio](https://ebrahim-gory-portfolio.vercel.app/)
