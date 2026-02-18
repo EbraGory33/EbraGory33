@@ -169,4 +169,4 @@ These repositories are intended for **educational purposes** and to showcase **s
 
 *Last Updated: Febuary 2026*  
 
-> _“I don’t just want to use technology — I want to learn how to build the systems that power it.”_  — **Ebrahim Gory**
+> _“Consistent small changes make big differences.”_  — **Ebrahim Gory**
