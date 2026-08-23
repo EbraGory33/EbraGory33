@@ -1,6 +1,6 @@
 # ${ Ebrahim Gory }
 
-## 💻 Software Engineer | Full-Stack Developer | React | Node.js | Cloud
+## 💻 Software Engineer | Full-Stack Developer | Web Systems | APIs | Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ebrahim-gory/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/EbraGory33/)
