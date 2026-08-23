@@ -1,4 +1,4 @@
-# ${ Ebrahim Gory }
+# const Ebrahim_Gory: SoftwareEngineer = {
 
 ## 💻 Software Engineer | Full-Stack Developer | Web Systems | APIs | Cloud
 
@@ -170,7 +170,8 @@ Configured a cloud-based SIEM pipeline to collect and analyze AWS CloudTrail and
 | [devsecops-lab](https://github.com/<your-github>/devsecops-lab)                   | CI/CD pipeline with security integration | Jenkins, GitHub Actions |
 
 --- -->
+# };
 
 _Last Updated: August 2026_
 
-> _“Consistent small changes make big differences.”_ — **Ebrahim Gory**
+> _“Consistent small changes make big differences.”_ — **Ebrahim Gory**}
