@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ebrahim-gory/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/EbraGory33/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-orange)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-orange)](https://ebrahimgory.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:goryebrahim30@gmail.com)
 
 ---
