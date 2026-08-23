@@ -1,4 +1,4 @@
-# const Ebrahim_Gory: SoftwareEngineer = {
+# EbrahimGory = {
 
 ## 💻 Software Engineer | Full-Stack Developer | Web Systems | APIs | Cloud
 
